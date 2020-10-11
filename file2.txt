@@ -2,8 +2,3 @@ Goood bye!
 Some other line
 <<<<<<< HEAD
 line from user2
-=======
-line from user2
-Another line from user2
-
->>>>>>> 89c0d586e61a9ce299ac861151cedb5cce8bacfe
