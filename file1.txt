@@ -3,6 +3,3 @@ SEGA
 SONY PLAYSTATION
 XBOX
 
-OKKKKK
-Hello! (from branch master)
-
